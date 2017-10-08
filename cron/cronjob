@@ -21,4 +21,4 @@
 #
 # m h  dom mon dow   command
 
-*/30 * * * * php -q /opt/query.sh
+*/30 * * * * /opt/query.sh
